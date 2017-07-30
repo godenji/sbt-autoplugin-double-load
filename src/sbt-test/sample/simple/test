@@ -1,0 +1,4 @@
+> inspect myTask
+
+# invoke not existing (shorter stack trace to more easily see above myTask output)
+> show notExists
